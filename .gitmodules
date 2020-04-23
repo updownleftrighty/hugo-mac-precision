@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/updownleftrighty/updownleftrighty.github.io.git
+	branch = master
