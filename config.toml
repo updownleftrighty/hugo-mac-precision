@@ -1,5 +1,5 @@
 baseURL = "https://updownleftrighty.github.io"
-languageCode = "en-us"
+languageCode = "de-de"
 title = "MAC Precision"
 theme = "navigator-hugo"
 summaryLength = 10
@@ -15,15 +15,15 @@ pygmentsCodeFences = true
 # Multilangues setup
 # Renders the default content language in subdir, e.g. /en/. The root directory / will redirect to /en/
 defaultContentLanguageInSubdir = true
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "de"
 
 # Site Params
 [params]
 logo = "images/logo.png"
 
-# Gestion des langues : FR / EN / NL / DE
+# Gestion des langues :.de / EN / NL / DE
 [[Params.listeLangues]]
-code = "fr"
+code = "de"
 [[Params.listeLangues]]
 code = "en"
 
@@ -31,54 +31,59 @@ code = "en"
 author = "Themefisher"
 description = "This is meta description"
 
-# Gestion des langues : FR / EN / NL / DE
+# Gestion des langues :.de / EN / NL / DE
 [Languages]
-############ 1 - Site en FRANCAIS
-[Languages.fr]
+############ 1 - Site in GERMAN
+[Languages.de]
 weight = 1
-languageCode = "fr-fr"
-title = "FRANCAIS Example site multi-language"
-dateFormat = "2 January 2006"
+languageCode = "de-de"
+title = "MAC Precision"
+dateFormat = "2. Januar 2006"
 
-home = "FR Home"
+home = "Home"
 logo = "images/logo.png"
 menufixed = false
 
-footerDescription = "FRANCAIS Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
-footerServiceTitle = "FRANCAIS Services"
-footerQuicklinkTitle = "FRANCAIS Quick links"
-footerAboutTitle = "FRANCAIS About"
-footerSubscribeTitle = "FRANCAIS Subscribe"
+footerDescription = "GERMAN Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
+footerServiceTitle = "Leistungen"
+footerQuicklinkTitle = "Nützliche Links"
+footerAboutTitle = "Über uns"
+footerSubscribeTitle = "Abonniere uns"
 
 # Hero Area Section
-[Languages.fr.params.hero]
+[Languages.de.params.hero]
 enable  = true
-heading = "FRANCAIS We love to make brands grow"
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
+heading = "Die richtige Adresse für mechanische Bauteile aller Art"
+description = "Unsere Partnerunternehmen setzen auf neuste Technologien und höchste Standards"
 button  = true
-btnText = "Know More"
-btnURL  = "https://themefisher.com/"
-videoThumb = "images/slider/grindel_cilindricos05.jpg"
-videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
+btnText = "mehr erfahren"
+btnURL  = "/de"
+carouselThumb1 = "images/slider/grindel-hero.jpg"
+carouselThumb2 = "images/slider/eisenor-hero.jpg"
+carouselThumb3 = "images/slider/ondozabal-hero.jpg"
+carouselThumb4 = "..."
+carouselThumb5 = "..."
+carouselThumb6 = "..."
+carouselThumb7 = "..."
 
 # About 2 Section
-[Languages.fr.params.aboutSm]
+[Languages.de.params.aboutSm]
 enable  = true
-title   = "FRANCAIS We have explored the digital landscape with passion for a long time"
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
+title   = "Seit mehr als 10 Jahren versorgen wir Kunden zuverlässig mit hochwertigen mechanischen Teilen"
+description = "Unsere Partnerunternehmen sind hoch-spezialisiert und verfügen über das nötige Fachwissen um Ihren individuellen Ansprüchen mehr als gerecht zu werden. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
 
 # Blog Section On Homepage
-[Languages.fr.params.blog]
-enable  = true
+[Languages.de.params.blog]
+enable  = false
 topTitle= "OUR UNTOLD STORY"
-title   = "FRANCAIS Blog."
+title   = "GERMAN Blog."
 subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
 
 # Contact Section
-[Languages.fr.params.contact]
+[Languages.de.params.contact]
 enable  = true
 topTitle= "DROP US A NOTE"
-title   = "FRANCAIS Contact Us."
+title   = "GERMAN Contact Us."
 subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
 address = "14/05, Stockhome <br> Victori Palace , United States"
 phone   = "(03) 9283 2617"
@@ -93,10 +98,10 @@ mapLongitude= "-0.127758"
 mapMarker   = "images/marker.png"
 
 # Call to Action Section on About Page
-[Languages.fr.params.cta]
+[Languages.de.params.cta]
 enable  = true
 bg      = "images/call-to-action/call-to-action-bg-2.jpg"
-title   = "FRANCAIS Let's Create Something Together"
+title   = "GERMAN Let's Create Something Together"
 subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
 btnText = "Nous contacter"
 
