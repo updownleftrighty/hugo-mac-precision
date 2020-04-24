@@ -121,7 +121,7 @@ footerSubscribeTitle = "Subscribe"
 [Languages.en.params.hero]
 enable  = true
 heading = "The reliable choice when it comes to machinery."
-description = "We work with industry leading partners, each one of them highly specialized and knowledgable in their respective discipline"
+description = "We work with industry leading partners, each one of them highly specialized and knowledgable in their respective discipline."
 button  = true
 btnText = "Know More"
 btnURL  = "https://themefisher.com/"
