@@ -1,13 +1,17 @@
 enable    : true
 title     : We care about our work
 description: >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae dolorem, saepe ab, optio obcaecati id asperiores. Ab ullam qui architecto at eos distinctio debitis, libero reprehenderit excepturi rem ut odit est nam magni ratione necessitatibus, quod eaque, eius minima tempora deleniti illum aliquam! Perferendis optio dolorum blanditiis sapiente aperiam quaerat.
-image     : images/about/about-1.jpg
+  The MAC Precision team is ready to assist your company with the following tasks:
+image     : images/about/about-3.jpg
 servicelist:
-  - name    : Creative Designers
-  - name    : Genius Developers
-  - name    : Growth Hackers
-  - name    : Marketing Masterminds
+  - name    : selecting a solution to a problem
+  - name    : developing a more efficient unit
+  - name    : providing quieter running components
+  - name    : improving delivery times
+  - name    : longer component lifetime
+  - name    : contributing to prototypes
+  - name    : quick and reliable answers to your questions
+
 clientLogo:
   - image   : images/client-logo/logo1.png
   - image   : images/client-logo/logo-2.png

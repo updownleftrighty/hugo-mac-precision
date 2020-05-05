@@ -20,6 +20,7 @@ DefaultContentLanguage = "de"
 # Site Params
 [params]
 logo = "images/logo.png"
+phone = "images/phone.png"
 
 # Gestion des langues :.de / EN / NL / DE
 [[Params.listeLangues]]
@@ -42,7 +43,8 @@ dateFormat = "2. Januar 2006"
 
 home = "Home"
 logo = "images/logo.png"
-menufixed = false
+phone = "images/phone.png"
+menufixed = true
 
 footerDescription = "GERMAN Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
 footerServiceTitle = "Leistungen"
@@ -55,13 +57,13 @@ footerSubscribeTitle = "Abonniere uns"
 enable  = true
 heading = "Die richtige Adresse für mechanische Bauteile aller Art"
 description = "Unsere Partnerunternehmen setzen auf neuste Technologien und höchste Standards"
-button  = true
+button  = false
 btnText = "mehr erfahren"
 btnURL  = "/de"
-carouselThumb1 = "images/slider/grindel-hero.jpg"
-carouselThumb2 = "images/slider/eisenor-hero.jpg"
-carouselThumb3 = "images/slider/ondozabal-hero.jpg"
-carouselThumb4 = "..."
+carouselThumb1 = "images/slider/car_tedisa.jpg"
+carouselThumb2 = "images/slider/car_tdg.jpg"
+carouselThumb3 = "images/slider/car_grindel.jpg"
+carouselThumb4 = "images/slider/car_eisenor.jpg"
 carouselThumb5 = "..."
 carouselThumb6 = "..."
 carouselThumb7 = "..."
@@ -70,20 +72,20 @@ carouselThumb7 = "..."
 [Languages.de.params.aboutSm]
 enable  = true
 title   = "Seit mehr als 10 Jahren versorgen wir Kunden zuverlässig mit hochwertigen mechanischen Teilen"
-description = "Unsere Partnerunternehmen sind hoch-spezialisiert und verfügen über das nötige Fachwissen um Ihren individuellen Ansprüchen mehr als gerecht zu werden. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+description = "MAC Precision has been discovering, auditing, and introducing quality providers to its’ customers since 2008. Today we have an ever-growing group of satisfied customers that rely on MAC Precisions’ suppliers to delivery quality components on a timely basis with market prices. These suppliers are for the most part small to medium sized traditional or family companies. Most are at least 50 years old and one has been operating for over 100 years."
 
 # Blog Section On Homepage
 [Languages.de.params.blog]
 enable  = false
-topTitle= "OUR UNTOLD STORY"
-title   = "GERMAN Blog."
+topTitle= "Unsere Geschichte"
+title   = "News"
 subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
 
 # Contact Section
 [Languages.de.params.contact]
 enable  = true
-topTitle= "DROP US A NOTE"
-title   = "GERMAN Contact Us."
+topTitle= "Lass uns eine Nachricht da"
+title   = "Kontaktiere uns"
 subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
 address = "14/05, Stockhome <br> Victori Palace , United States"
 phone   = "(03) 9283 2617"
@@ -100,10 +102,10 @@ mapMarker   = "images/marker.png"
 # Call to Action Section on About Page
 [Languages.de.params.cta]
 enable  = true
-bg      = "images/call-to-action/call-to-action-bg-2.jpg"
-title   = "GERMAN Let's Create Something Together"
+bg      = "images/-to-action/call-to-action-bg-2.jpg"
+title   = "Lasst uns zusammen Ideen verwirklichen"
 subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
-btnText = "Nous contacter"
+btnText = "Kontakt"
 
 ############# 2 - Site en ENGLISH
 [Languages.en]
@@ -112,9 +114,10 @@ languageCode = "en-us"
 title = "Example site multi-language"
 dateFormat = "January 2, 2006"
 
-home = "EN Home"
+home = "Home"
 logo = "images/logo.png"
-menufixed = false
+phone = "images/phone.png"
+menufixed = true
 
 footerDescription = "Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
 footerServiceTitle = "Service"
@@ -125,23 +128,28 @@ footerSubscribeTitle = "Subscribe"
 # Hero Area Section
 [Languages.en.params.hero]
 enable  = true
-heading = "The reliable choice when it comes to machinery."
-description = "We work with industry leading partners, each one of them highly specialized and knowledgable in their respective discipline."
-button  = true
-btnText = "Know More"
-btnURL  = "https://themefisher.com/"
-videoThumb = "images/slider/grindel_cilindricos05.jpg"
-videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
+heading = "Die richtige Adresse für mechanische Bauteile aller Art"
+description = "Unsere Partnerunternehmen setzen auf neuste Technologien und höchste Standards"
+button  = false
+btnText = "mehr erfahren"
+btnURL  = "/en"
+carouselThumb1 = "images/slider/car_tedisa.jpg"
+carouselThumb2 = "images/slider/car_tdg.jpg"
+carouselThumb3 = "images/slider/car_grindel.jpg"
+carouselThumb4 = "images/slider/car_eisenor.jpg"
+carouselThumb5 = "..."
+carouselThumb6 = "..."
+carouselThumb7 = "..."
 
 # About 2 Section
 [Languages.en.params.aboutSm]
 enable  = true
-title   = "We have explored the digital landscape with passion for a long time"
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
+title   = "We have been discovering, auditing, and introducing quality providers to its’ customers since 2008. "
+description = "Today we have an ever-growing group of satisfied customers that rely on MAC Precisions’ suppliers to delivery quality components on a timely basis with market prices. These suppliers are for the most part small to medium sized traditional or family companies. Most are at least 50 years old and one has been operating for over 100 years."
 
 # Blog Section On Homepage
 [Languages.en.params.blog]
-enable  = true
+enable  = false
 topTitle= "OUR UNTOLD STORY"
 title   = "Blog."
 subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
@@ -152,7 +160,7 @@ enable  = true
 topTitle= "DROP US A NOTE"
 title   = "Contact Us."
 subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
-address = "14/05, Stockhome <br> Victori Palace , United States"
+address = "14/05, Stockhome <br> Victori Palace , Deutschland"
 phone   = "(03) 9283 2617"
 fax     = "+61 3827 3590"
 facebook= "https://www.facebook.com/"
@@ -160,8 +168,8 @@ twitter = "https://twitter.com/"
 linkedin= "https://www.linkedin.com/"
 dribbble= "https://dribbble.com/"
 instagram= "https://www.instagram.com/"
-mapLatitude = "51.507351"
-mapLongitude= "-0.127758"
+mapLatitude = "49.450759"
+mapLongitude= "8.472489"
 mapMarker   = "images/marker.png"
 
 # Call to Action Section on About Page
@@ -229,3 +237,6 @@ weight  = 3
 name    = "badges"
 url     = "about"
 weight  = 4
+
+#infobar
+phone = "images/phone.png"

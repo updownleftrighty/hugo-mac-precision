@@ -1,13 +1,13 @@
 [about]
-other = "DE About"
+other = "Über uns"
 [service]
-other = "DE Service"
+other = "Dienstleistungen"
 [portfolio]
-other = "DE Portfolio"
+other = "Portfolio"
 [blog]
-other = "DE Blog"
+other = "News"
 [contact]
-other = "DE Contact"
+other = "Kontakt"
 
 [graphicdesign]
 other = "DE Graphic Design"

@@ -1,13 +1,17 @@
 enable    : true
-title     : GERMAN We care about our work
+title     : Wir kümmern uns um ihr Anliegen
 description: >
-  GERMAN Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae dolorem, saepe ab, optio obcaecati id asperiores. Ab ullam qui architecto at eos distinctio debitis, libero reprehenderit excepturi rem ut odit est nam magni ratione necessitatibus, quod eaque, eius minima tempora deleniti illum aliquam! Perferendis optio dolorum blanditiis sapiente aperiam quaerat.
+  Das Mac Precision Team unterstützt ihr Unternehmen mit:
 image     : images/about/about-1.jpg
 servicelist:
-  - name    : Creative Designers
-  - name    : Genius Developers
-  - name    : Growth Hackers
-  - name    : Marketing Masterminds
+  - name    : Auswahl einer geeigneten Lösung für ihre Anforderungen
+  - name    : Enticklung effizienterer Einheiten
+  - name    : Reduktion der Betriebslautstärke
+  - name    : Verkürzung der Lieferzeiten
+  - name    : Verlängerte Lebensdauer der Komponenten
+  - name    : Unterstützung bei Prototypisierung
+  - name    : Schnelle und zuverlässige Antworten
+
 clientLogo:
   - image   : images/client-logo/logo1.png
   - image   : images/client-logo/logo-2.png
