@@ -2,7 +2,7 @@ enable    : true
 title     : Wir kümmern uns um ihr Anliegen
 description: >
   Das Mac Precision Team unterstützt ihr Unternehmen bei:
-image     : images/about/about-1.jpg
+image     : images/about/about-3.jpg
 servicelist:
   - name    : Problemösung
   - name    : Enticklung effektiver Produkte
@@ -19,6 +19,7 @@ clientLogo:
   - image   : images/client-logo/logo_spirsin.png
   - image   : images/client-logo/logo_spiroide.png
   - image   : images/client-logo/logo_grindel.png
+  - image   : images/client-logo/logo_obeki.png
   - image   : images/client-logo/logo_diviprec.png
+  - image   : images/client-logo/logo_sidepalsa.png
   - image   : images/client-logo/logo_oz.png
-
