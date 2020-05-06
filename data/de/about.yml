@@ -2,13 +2,13 @@ enable  : true
 item    :
   - positionRight : false
     image : images/about/about-1.jpg
-    title : Tradition and Expertise
+    title : Tradition und Expertise
     description : >
-      Our suppliers are all located in the north of Spain either in Catalunya or the Basque Country. They have a 500-year history of being proud of their workmanship and today they add flexibility and reliability to the formula. Without this formula they would have little chance of competing in the German market. 
+      Unsere Lieferanten befinden sich in Nordspanien, Katalonien, aber hauptsächlich im Baskenland.  Hier gibt es eine starke Tradition, einen besonderen Bezug zu seiner Arbeit und Firma zu haben. Diese Begeisterung zum eigenen Produkt, gepaart mit Flexibilität und Verläßlichkeit ist die besondere Stärke dieser Firmen. 
 
 
   - positionRight : true
     image : images/about/about-2.jpg
-    title : Industry Industry Industry
+    title : Verlässlichkeit und Zusammenarbeit
     description : >
-      We work in the industry and do high precision stuff
+      Wir arbeiten eng mit unseren Lieferanten und Kunden zusammen. Das ermöglicht eine kundenspezifische Lösungsfindung ohne Umwege. Wir unterstützen Sie bei Ihrem Vorhaben. 

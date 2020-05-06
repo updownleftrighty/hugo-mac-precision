@@ -71,8 +71,8 @@ carouselThumb7 = "..."
 # About 2 Section
 [Languages.de.params.aboutSm]
 enable  = true
-title   = "Seit mehr als 10 Jahren versorgen wir Kunden zuverlässig mit hochwertigen mechanischen Teilen"
-description = "MAC Precision has been discovering, auditing, and introducing quality providers to its’ customers since 2008. Today we have an ever-growing group of satisfied customers that rely on MAC Precisions’ suppliers to delivery quality components on a timely basis with market prices. These suppliers are for the most part small to medium sized traditional or family companies. Most are at least 50 years old and one has been operating for over 100 years."
+title   = "Seit 2014 erkennt, prüft und stellt Mac Precision Qualitätslieferanten seinen Kunden vor."
+description = "Wir haben heute eine stetig wachsende Zahl zufriedener Kunden , die unseren Lieferanten und ihren Produkten vertrauen.  Diese Lieferanten sind kleine bis mittelgroße Traditions- und Familienunternehmen. Die meisten sind mindesten 50 Jahre alt und eines sogar seit mehr als 100 Jahren existent."
 
 # Blog Section On Homepage
 [Languages.de.params.blog]
