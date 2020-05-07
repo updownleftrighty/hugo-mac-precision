@@ -67,7 +67,14 @@ carouselThumb4 = "images/slider/car_oz.jpg"
 carouselThumb5 = "images/slider/car_eisenor.jpg"
 carouselThumb6 = "images/slider/car_grindel2.jpg"
 carouselThumb7 = "images/slider/car_obeki.jpg"
-
+carouselTitle1 = "images/slider/title_tedisa.png"
+carouselTitle2 = "images/slider/title_tdg.png"
+carouselTitle3 = "images/slider/title_grindel.png"
+carouselTitle4 = "images/slider/title_oz.png"
+carouselTitle5 = "images/slider/title_eisenor.png"
+carouselTitle6 = "images/slider/title_grindel2.png"
+carouselTitle7 = "images/slider/title_obeki.png"
+carouselTitle8 = "images/slider/title_spiroide.png"
 # About 2 Section
 [Languages.de.params.aboutSm]
 enable  = true
