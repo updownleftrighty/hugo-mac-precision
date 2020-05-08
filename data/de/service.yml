@@ -1,7 +1,7 @@
 enable    : true
-topTitle  : GERMAN A LIST OF SERVICES
-title     : GERMAN Our Service.
-subtitle  : GERMAN Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+topTitle  : ÜBERZEUGEN SIE SICH VON
+title     : UNSEREN DIENSTLEISTNGEN.
+subtitle  : Wir streben nach der perfekten Lösungsfindung für ihre Anforderungen
 item      :
   - icon  : tf-ion-ios-copy-outline
     title : GERMAN Branding
