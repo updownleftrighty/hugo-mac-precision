@@ -67,14 +67,16 @@ carouselThumb4 = "images/slider/car_oz.jpg"
 carouselThumb5 = "images/slider/car_eisenor.jpg"
 carouselThumb6 = "images/slider/car_grindel2.jpg"
 carouselThumb7 = "images/slider/car_obeki.jpg"
+carouselThumb8 = "..."
 carouselTitle1 = "images/slider/title_tedisa.png"
 carouselTitle2 = "images/slider/title_tdg.png"
 carouselTitle3 = "images/slider/title_grindel.png"
 carouselTitle4 = "images/slider/title_oz.png"
 carouselTitle5 = "images/slider/title_eisenor.png"
-carouselTitle6 = "images/slider/title_grindel2.png"
+carouselTitle6 = "images/slider/title_grindel.png"
 carouselTitle7 = "images/slider/title_obeki.png"
 carouselTitle8 = "images/slider/title_spiroide.png"
+
 # About 2 Section
 [Languages.de.params.aboutSm]
 enable  = true
@@ -83,7 +85,7 @@ description = "Wir haben heute eine stetig wachsende Zahl zufriedener Kunden , d
 
 # Blog Section On Homepage
 [Languages.de.params.blog]
-enable  = false
+enable  = true
 topTitle= "Unsere Geschichte"
 title   = "News"
 subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
@@ -93,10 +95,10 @@ subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reici
 enable  = true
 topTitle= "Lass uns eine Nachricht da"
 title   = "Kontaktiere uns"
-subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
-address = "14/05, Stockhome <br> Victori Palace , United States"
-phone   = "(03) 9283 2617"
-fax     = "+61 3827 3590"
+subtitle= "Wir helfen Ihnen gerne bei allen möglichen Fragen."
+address = "Postfach 240229<br> 68172 Mannheim"
+phone   = "+49 (0) 621 437 56 22"
+fax     = "+49 (0) 621 437 56 22"
 facebook= "https://www.facebook.com/"
 twitter = "https://twitter.com/"
 linkedin= "https://www.linkedin.com/"
@@ -147,6 +149,15 @@ carouselThumb4 = "images/slider/car_oz.jpg"
 carouselThumb5 = "images/slider/car_eisenor.jpg"
 carouselThumb6 = "images/slider/car_grindel2.jpg"
 carouselThumb7 = "images/slider/car_obeki.jpg"
+carouselThumb8 = "..."
+carouselTitle1 = "images/slider/title_tedisa.png"
+carouselTitle2 = "images/slider/title_tdg.png"
+carouselTitle3 = "images/slider/title_grindel.png"
+carouselTitle4 = "images/slider/title_oz.png"
+carouselTitle5 = "images/slider/title_eisenor.png"
+carouselTitle6 = "images/slider/title_grindel.png"
+carouselTitle7 = "images/slider/title_obeki.png"
+carouselTitle8 = "images/slider/title_spiroide.png"
 
 # About 2 Section
 [Languages.en.params.aboutSm]
@@ -156,9 +167,9 @@ description = "Today we have an ever-growing group of satisfied customers that r
 
 # Blog Section On Homepage
 [Languages.en.params.blog]
-enable  = false
+enable  = true
 topTitle= "OUR UNTOLD STORY"
-title   = "Blog."
+title   = "News"
 subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
 
 # Contact Section
