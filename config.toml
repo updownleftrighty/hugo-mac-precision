@@ -85,7 +85,7 @@ description = "Wir haben heute eine stetig wachsende Zahl zufriedener Kunden , d
 
 # Blog Section On Homepage
 [Languages.de.params.blog]
-enable  = true
+enable  = false
 topTitle= "Unsere Geschichte"
 title   = "News"
 subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
@@ -113,8 +113,8 @@ mapMarker   = "images/marker.png"
 enable  = true
 bg      = "images/call-to-action/call-to-action-bg-2.jpg"
 title   = "Lasst uns zusammen Ideen verwirklichen"
-subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
-btnText = "Kontakt"
+subtitle= "Für uns dreht sich alles um guten Service und<br>Zusammenarbeit auf Augenhöhe."
+btnText = "Zum Kontakt"
 
 ############# 2 - Site en ENGLISH
 [Languages.en]
@@ -167,7 +167,7 @@ description = "Today we have an ever-growing group of satisfied customers that r
 
 # Blog Section On Homepage
 [Languages.en.params.blog]
-enable  = true
+enable  = false
 topTitle= "OUR UNTOLD STORY"
 title   = "News"
 subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
@@ -195,7 +195,7 @@ mapMarker   = "images/marker.png"
 enable  = true
 bg      = "images/call-to-action/call-to-action-bg-2.jpg"
 title   = "Let's Create Something Together"
-subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
+subtitle= "Our ambition is to deliver perfect components and services<br> We care about our customerrelations."
 btnText = "Contact Us"
 
 # We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font

@@ -1,7 +1,7 @@
 enable  : true
-topTitle: GERMAN TEAM MEMBER
-title   : GERMAN Our Team.
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+topTitle: NAH BEI IHNEN
+title   : UNSER TEAM.
+subtitle: Erfahrung macht uns auf - Leidenschaft treibt uns an.
 
 member  :
   - image         : images/team/member-1.jpg
