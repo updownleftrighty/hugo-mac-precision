@@ -1,0 +1,58 @@
+enable  : true
+topTitle: NICHTS LÄUFT OHNE 
+title   : UNSERE PARTNERUNTERNEHMEN.
+subtitle: Zuverlässige Lieferanten auf die Sie zählen können
+url: http://www.eisenor.com
+logo: images/portfolio/portfolio-tedisa1.jpg
+location: Anschrift
+description: Hersteller von Linearführungen, Kastenführungen von hoher Steifigkeit, teilweise INA-kompatibel.  Für den Einsatz in Werkzeugmaschinen, im Werkzeugbau, bei der Automatisierung, bei der Lagertechnik, im Engineering. Weitere Produkte sind Rollenlager zu den Führungen und verschleißfeste Beschichtungen, thermisch-chemisch oderkeramisch. Spezialist in Sonderlösungen wie Bogenführungen.
+address: Polígono Industrial Mocholi
+address2: 31110 – Noain (Navarra)
+city: España - E.U.
+phone: Telefon
+number1: +34 948 312 102
+number2: +34 948 317 726
+contact: info@eisenor.com
+
+
+
+
+item   :
+  - title : 
+    image : images/portfolio/portfolio-eisenor1.jpg
+    category  : 
+
+  - title : 
+    image : images/portfolio/portfolio-eisenor2.jpg
+    category  : ios, design
+
+  - title : 
+    image : images/portfolio/portfolio-eisenor3.jpg
+    category  : photography, development
+
+  - title : 
+    image : images/portfolio/portfolio-eisenor4.jpg
+    category  : ios
+
+  - title :  
+    image : images/portfolio/portfolio-eisenor5.jpg
+    category  : 
+
+  - title : 
+    image : images/portfolio/portfolio-eisenor6.jpg
+    category  : 
+    
+item2   :
+  - title :  
+    image : images/portfolio/portfolio-eisenor7.jpg
+    category  : photography
+
+  - title : 
+    image : images/portfolio/portfolio-eisenor8.jpg
+    category  : ios, design
+
+  - title : 
+    image : images/portfolio/portfolio-eisenor9.jpg
+    category  : photography, development
+
+

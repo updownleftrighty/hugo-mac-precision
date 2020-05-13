@@ -1,0 +1,24 @@
+enable  : true
+topTitle: NICHTS LÄUFT OHNE 
+title   : UNSERE PARTNERUNTERNEHMEN.
+subtitle: Zuverlässige Lieferanten auf die Sie zählen können
+url:
+location: 
+description: 
+address: 
+city: 
+number2: 
+
+item   :
+  - title :   Präzisions-Kugelgewindetriebe
+    image : 
+    category  : 
+
+  - title : 
+    image : 
+    category  : ios, design
+
+  - title : 
+    image : 
+    category  : photography, development
+

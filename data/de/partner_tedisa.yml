@@ -1,0 +1,56 @@
+enable  : true
+topTitle: NICHTS LÄUFT OHNE 
+title   : UNSERE PARTNERUNTERNEHMEN.
+subtitle: Zuverlässige Lieferanten auf die Sie zählen können
+url: http://www.tedisa-hirth.com/
+location: Anschrift
+description: Tedisa fertigt Hirth Ringe und Hirth Verzahnungen. Spezialist für hochpräzise Produkte. Ringdurchmesser bis 1500 mm sind möglich. Standardgrößen und Ringsätze nach Kundenwunsch in höchster Präzision.
+address: Pol. Ind. Eitua, 56 
+address2: E48240 Berriz
+city: Bizkaia, Spain
+phone: Telefon
+number1: +34 946 824 853
+number2: +34 946 225 144
+
+
+
+
+item   :
+  - title : 
+    image : images/portfolio/portfolio-tedisa1.jpg
+    category  : 
+
+  - title : 
+    image : images/portfolio/portfolio-tedisa2.jpg
+    category  : ios, design
+
+  - title : 
+    image : images/portfolio/portfolio-tedisa3.jpg
+    category  : photography, development
+
+  - title : 
+    image : images/portfolio/portfolio-tedisa4.jpg
+    category  : ios
+
+  - title :  
+    image : images/portfolio/portfolio-tedisa5.jpg
+    category  : 
+
+  - title : 
+    image : images/portfolio/portfolio-tedisa6.jpg
+    category  : 
+    
+item2   :
+  - title :  
+    image : images/portfolio/portfolio-tedisa7.jpg
+    category  : photography
+
+  - title : 
+    image : images/portfolio/portfolio-tedisa8.jpg
+    category  : ios, design
+
+  - title : 
+    image : images/portfolio/portfolio-tedisa9.jpg
+    category  : photography, development
+
+
