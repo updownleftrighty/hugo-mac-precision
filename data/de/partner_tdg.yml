@@ -1,0 +1,32 @@
+enable  : true
+topTitle: NICHTS LÄUFT OHNE 
+title   : UNSERE PARTNERUNTERNEHMEN.
+subtitle: Zuverlässige Lieferanten auf die Sie zählen können
+logo: images/portfolio/portfolio-tdg.jpg
+url: https://tdgcompany.com/
+location: Anschrift
+description: TDG stellt Spannfutter und Planscheiben nach Kundenwunsch her. Die Firma hat mehr als 100 Jahre Erfahrung im Maschinenbau und ist Spezialist bei mittleren und großen Drehfuttern; manuell wie automatisch und smart. Bis 7 Meter Durchmesser werden kundenspezifische Lösungen angeboten für den Energiesektor, Bahntechnik, Schiffbau, Luft- und Raumfahrt.
+address: Goikoibarra 3
+address2: 48300 Gernika (Bizkaia)
+city:   Spain
+phone: Telefon
+number1: +34 94 625 05 00
+number2: 
+contact: tdg@tdgcompany.com
+
+
+
+
+item   :
+  - title : 
+    image : images/portfolio/portfolio-tdg1.jpg
+    category  : 
+
+  - title : 
+    image : images/portfolio/portfolio-tdg2.jpg
+    category  : ios, design
+
+  - title : 
+    image : images/portfolio/portfolio-tdg3.jpg
+    category  : photography, development
+

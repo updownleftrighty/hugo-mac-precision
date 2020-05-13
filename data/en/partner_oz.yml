@@ -1,0 +1,67 @@
+enable  : true
+topTitle: INTRODUCING
+title   : OUR PARTNERS.
+subtitle: Reliable suppliers for almost every use case.
+url: https://www.ondozabal.com/
+logo: images/portfolio/portfolio-obeki.jpg
+location: Address
+description: Ondozabal is also a family run business dedicated to machining, welding, and specialty products. They are capable of handling parts up to 50 tons and lengths up to 5 meters. They turn parts up to 2 meters in diameter with excellent precision. Precision is dependent on the part design and the machine employed to provide the machining. They have Leifeld machines which do “Metal Spinning” and can produce refractory tubes as well as other specialty parts.
+address: Polígono Industrial Ubegun, 8
+address2: 20810 Aia
+city: Orio (Gipuzkoa-SPAIN)
+phone: Phone
+number1: +34 943 832400
+number2: +34 943 830691
+contact: comercial@ondozabal.com
+
+
+
+
+item   :
+  - title : 
+    image : images/portfolio/portfolio-oz1.jpg
+    category  : 
+
+  - title : 
+    image : images/portfolio/portfolio-oz2.jpg
+    category  : ios, design
+
+  - title : 
+    image : images/portfolio/portfolio-oz3.jpg
+    category  : photography, develoz
+  - title : 
+    image : images/portfolio/portfolio-oz4.jpg
+    category  : ios
+
+  - title :  
+    image : images/portfolio/portfolio-oz5.jpg
+    category  : 
+
+  - title : 
+    image : images/portfolio/portfolio-oz6.jpg
+    category  : 
+    
+item2   :
+  - title :  
+    image : images/portfolio/portfolio-oz7.jpg
+    category  : photography
+
+  - title : 
+    image : images/portfolio/portfolio-oz8.jpg
+    category  : ios, design
+
+  - title : 
+    image : images/portfolio/portfolio-oz9.jpg
+    category  : photography, development
+
+  - title : 
+    image : images/portfolio/portfolio-oz10.jpg
+    category  : photography, development
+
+  - title : 
+    image : images/portfolio/portfolio-oz11.jpg
+    category  : photography, development
+
+  - title : 
+    image : images/portfolio/portfolio-oz12.jpg
+    category  : photography, development

@@ -1,0 +1,33 @@
+enable  : true
+ttopTitle: INTRODUCING
+title   : OUR PARTNERS.
+subtitle: Reliable suppliers for almost every use case.
+logo: images/portfolio/portfolio-tdg.jpg
+url: https://tdgcompany.com/
+location: Address
+description: TDG manufacturers chucks according to customer requirements. The company is more than 100 years old with experience in machining. The are specialist in middle to larger sized Chucks; both manual and automatic. They have recently introduced Smart controls. They offer solutions up to 7 meters in diameter for the following sectors; energy, rail, shipbuilding, air and space.
+address: Goikoibarra 3
+address2: 48300 Gernika (Bizkaia)
+city:   Spain
+phone: Phone
+number1: +34 94 625 05 00
+number2: 
+contact: tdg@tdgcompany.com
+
+
+
+
+item   :
+  - title : 
+    image : images/portfolio/portfolio-tdg1.jpg
+    category  : 
+
+  - title : 
+    image : images/portfolio/portfolio-tdg2.jpg
+    category  : ios, design
+
+  - title : 
+    image : images/portfolio/portfolio-tdg3.jpg
+    category  : photography, development
+
+  

@@ -1,0 +1,73 @@
+enable  : true
+ttopTitle: INTRODUCING
+title   : OUR PARTNERS.
+subtitle: Reliable suppliers for almost every use case.
+logo: images/portfolio/portfolio-obeki.jpg
+location: Address
+description: OBEKI started in 1950 building electric motors for local crane companies. Today you can find an OBEKI motor in almost any corner of the world. They produce electric motors for many special applications from nuclear power plants, steel plants, cranes, and marine propulsion.  The latest technology is employed from brakes and ventilators to permanent magnets. They look forward to developing a motor for your special application.
+address: C/ Baratzondo, 3
+address2: Pol. Ind. Apatta-Erreka
+city:  20400 Ibarra, Spain
+phone: Phone
+number1: +34 943 679 900
+number2: +34 943 679 901
+contact: info@obeki.com
+
+
+
+
+item   :
+  - title : 
+    image : images/portfolio/portfolio-obeki1.jpg
+    category  : 
+
+  - title : 
+    image : images/portfolio/portfolio-obeki2.jpg
+    category  : ios, design
+
+  - title : 
+    image : images/portfolio/portfolio-obeki3.jpg
+    category  : photography, development
+
+  - title : 
+    image : images/portfolio/portfolio-obeki4.jpg
+    category  : ios
+
+  - title :  
+    image : images/portfolio/portfolio-obeki5.jpg
+    category  : 
+
+  - title : 
+    image : images/portfolio/portfolio-obeki6.jpg
+    category  : 
+    
+item2   :
+  - title :  
+    image : images/portfolio/portfolio-obeki7.jpg
+    category  : photography
+
+  - title : 
+    image : images/portfolio/portfolio-obeki8.jpg
+    category  : ios, design
+
+  - title : 
+    image : images/portfolio/portfolio-obeki9.jpg
+    category  : photography, development
+  
+  - title :  
+    image : images/portfolio/portfolio-obeki10.jpg
+    category  : photography
+
+  - title : 
+    image : images/portfolio/portfolio-obeki11.jpg
+    category  : ios, design
+
+  - title : 
+    image : images/portfolio/portfolio-obeki12.jpg
+    category  : photography, development
+
+
+
+
+
+

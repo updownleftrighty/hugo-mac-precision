@@ -1,0 +1,69 @@
+enable  : true
+topTitle: NICHTS LÄUFT OHNE 
+title   : UNSERE PARTNERUNTERNEHMEN.
+subtitle: Zuverlässige Lieferanten auf die Sie zählen können
+url: http://www.obeki.com
+logo: images/portfolio/portfolio-obeki.jpg
+location: Anschrift
+description: Obeki German Text
+address: C/ Baratzondo, 3
+address2: Pol. Ind. Apatta-Erreka
+city:  20400 Ibarra, Spain
+phone: Phone
+number1: +34 943 679 900
+number2: +34 943 679 901
+contact: info@obeki.com
+
+
+
+item   :
+  - title : 
+    image : images/portfolio/portfolio-obeki1.jpg
+    category  : 
+
+  - title : 
+    image : images/portfolio/portfolio-obeki2.jpg
+    category  : ios, design
+
+  - title : 
+    image : images/portfolio/portfolio-obeki3.jpg
+    category  : photography, development
+
+  - title : 
+    image : images/portfolio/portfolio-obeki4.jpg
+    category  : ios
+
+  - title :  
+    image : images/portfolio/portfolio-obeki5.jpg
+    category  : 
+
+  - title : 
+    image : images/portfolio/portfolio-obeki6.jpg
+    category  : 
+    
+item2   :
+  - title :  
+    image : images/portfolio/portfolio-obeki7.jpg
+    category  : photography
+
+  - title : 
+    image : images/portfolio/portfolio-obeki8.jpg
+    category  : ios, design
+
+  - title : 
+    image : images/portfolio/portfolio-obeki9.jpg
+    category  : photography, development
+  
+  - title :  
+    image : images/portfolio/portfolio-obeki10.jpg
+    category  : photography
+
+  - title : 
+    image : images/portfolio/portfolio-obeki11.jpg
+    category  : ios, design
+
+  - title : 
+    image : images/portfolio/portfolio-obeki12.jpg
+    category  : photography, development
+
+

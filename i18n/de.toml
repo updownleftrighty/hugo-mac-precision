@@ -10,14 +10,14 @@ other = "News"
 other = "Kontakt"
 
 [graphicdesign]
-other = "DE Graphic Design"
-[webdesign]
-other = "DE Web Design"
+other = "Dienstleistungen"
+[partner]
+other = "Partner"
 [webdevelopment]
-other = "DE Web Development"
+other = "contact"
 
 [partners]
-other = "DE Partners"
+other = "Impressum"
 [faqs]
 other = "DE FAQ's"
 [badges]

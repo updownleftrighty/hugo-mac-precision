@@ -1,15 +1,15 @@
 enable  : true
-topTitle: NICHTS LÄUFT OHNE 
-title   : UNSERE PARTNERUNTERNEHMEN.
-subtitle: Zuverlässige Lieferanten auf die Sie zählen können
+topTitle: INTRODUCING
+title   : OUR PARTNERS.
+subtitle: Reliable suppliers for almost every use case.
 url: http://www.eisenor.com
 logo: images/portfolio/portfolio-tedisa1.jpg
-location: Anschrift
-description: Hersteller von Linearführungen, Kastenführungen von hoher Steifigkeit, teilweise INA-kompatibel.  Für den Einsatz in Werkzeugmaschinen, im Werkzeugbau, bei der Automatisierung, bei der Lagertechnik, im Engineering. Weitere Produkte sind Rollenlager zu den Führungen und verschleißfeste Beschichtungen, thermisch-chemisch oderkeramisch. Spezialist in Sonderlösungen wie Bogenführungen.
+location: Address
+description: Eisenor is a manufacturer of linear guides with high rigidity and hardness similar to INA. Their guides are found in machine tools, automation, special construction, and in storage systems. Additionally, they produce the roller systems for the guides and can provide special thermal, chemical, and ceramic processes. They are specialist in custom guides such as curved.
 address: Polígono Industrial Mocholi
 address2: 31110 – Noain (Navarra)
 city: España - E.U.
-phone: Telefon
+phone: Phone
 number1: +34 948 312 102
 number2: +34 948 317 726
 contact: info@eisenor.com
@@ -41,6 +41,8 @@ item   :
   - title :  
     image : images/portfolio/portfolio-eisenor5.jpg
     category  : 
+
+  
     
 item2   :
   - title :  

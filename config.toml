@@ -46,7 +46,7 @@ logo = "images/logo.png"
 phone = "images/phone.png"
 menufixed = true
 
-footerDescription = "GERMAN Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
+footerDescription = "Seit 2014 erkennt, prüft und stellt Mac Precision Qualitätslieferanten seinen Kunden vor."
 footerServiceTitle = "Leistungen"
 footerQuicklinkTitle = "Nützliche Links"
 footerAboutTitle = "Über uns"
@@ -97,7 +97,7 @@ topTitle= "Lass uns eine Nachricht da"
 title   = "Kontaktiere uns"
 subtitle= "Wir helfen Ihnen gerne bei allen möglichen Fragen."
 address = "Postfach 240229<br> 68172 Mannheim"
-phone   = "+49 (0) 621 437 56 22"
+phone   = "+49 (0) 621 481 9878"
 phone2  = "+49 (0) 176 966 183 30"
 
 fax     = "+49 (0) 621 437 56 22"
@@ -130,7 +130,7 @@ logo = "images/logo.png"
 phone = "images/phone.png"
 menufixed = true
 
-footerDescription = "Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
+footerDescription = "We have been discovering, auditing, and introducing quality providers to its’ customers since 2008."
 footerServiceTitle = "Service"
 footerQuicklinkTitle = "Quicklinks"
 footerAboutTitle = "About"
@@ -181,7 +181,7 @@ topTitle= "DROP US A NOTE"
 title   = "Contact Us."
 subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
 address = "Postfach 240229<br> 68172 Mannheim"
-phone   = "+49 (0) 621 437 56 22"
+phone   = "+49 (0) 621 481 9878"
 phone2  = "+49 (0) 176 966 183 30"
 fax     = "+61 3827 3590"
 facebook= "https://www.facebook.com/"
@@ -198,7 +198,7 @@ mapMarker   = "images/marker.png"
 enable  = true
 bg      = "images/call-to-action/call-to-action-bg-2.jpg"
 title   = "Let's Create Something Together"
-subtitle= "Our ambition is to deliver perfect components and services<br> We care about our customerrelations."
+subtitle= "Our ambition is to deliver perfect components and services<br> We care about our customer relations."
 btnText = "Contact Us"
 
 # We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font
@@ -225,35 +225,28 @@ weight  = 4
 
 # Footer Service Menu
 [[menu.service]]
-name    = "graphicdesign"
+name    = "service"
 url     = "service"
 weight  = 1
 [[menu.service]]
-name    = "webdesign"
-url     = "service"
+name    = "partner"
+url     = "portfolio"
 weight  = 2
 [[menu.service]]
-name    = "webdevelopment"
-url     = "service"
+name    = "contact"
+url     = "contact"
 weight  = 3
 
 # Footer Quick links Menu
 [[menu.quicklink]]
 name    = "partners"
-url     = "about"
+url     = "contact"
 weight  = 1
 [[menu.quicklink]]
 name    = "about"
-url     = "about"
+url     = "service"
 weight  = 2
-[[menu.quicklink]]
-name    = "faqs"
-url     = "about"
-weight  = 3
 [[menu.quicklink]]
 name    = "badges"
 url     = "about"
-weight  = 4
-
-#infobar
-phone = "images/phone.png"
+weight  = 3
