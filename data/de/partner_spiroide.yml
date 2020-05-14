@@ -1,0 +1,45 @@
+enable  : true
+topTitle: NICHTS LÄUFT OHNE 
+title   : UNSERE PARTNERUNTERNEHMEN.
+subtitle: Zuverlässige Lieferanten auf die Sie zählen können
+logo: images/portfolio/portfolio-tdg.jpg
+url: https://spiroide.com/
+location: Anschrift
+description: Spiroide als familiengeführtes Unternehmen in dritter Generation fertigt geschliffene und gehöhnte Kegelradsätze. Es wird hauptsächlich nach Klingelnberg Norm auf ebensolchen Maschinen gefertigt, aber auch einige Gleason Anwendungen.  Hauptmärkte sind Bahntechnik, Marine, Werkzeugmaschinen, Bergbau und Getriebebau.
+address: Els Vinyats I, nau nº 3
+address2: 08250 · Sant Joan de Vilatorrada
+city:   Barcelona (Spain)
+phone: Telefon
+number1: +34 938 764 242
+number2: +34 938 764 044
+contact: spiroide@spiroide.com
+
+
+
+
+item   :
+  - title : 
+    image : images/portfolio/portfolio-spiroide1.jpg
+    category  : 
+
+  - title : 
+    image : images/portfolio/portfolio-spiroide2.jpg
+    category  : ios, design
+
+  - title : 
+    image : images/portfolio/portfolio-spiroide3.jpg
+    category  : photography, development
+
+  - title : 
+    image : images/portfolio/portfolio-spiroide4.jpg
+    category  : photography, development
+
+  - title : 
+    image : images/portfolio/portfolio-spiroide5.jpg
+    category  : photography, development
+
+  - title : 
+    image : images/portfolio/portfolio-spiroide6.jpg
+    category  : photography, development
+
+  

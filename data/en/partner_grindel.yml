@@ -1,0 +1,98 @@
+enable  : true
+ttopTitle: INTRODUCING
+title   : OUR PARTNERS.
+subtitle: Reliable suppliers for almost every use case.
+url: https://www.grindelgears.com/
+logo: images/portfolio/portfolio-obeki.jpg
+location: Address
+description: Grindel is a manufacturer of ground and lapped cylindrical gears in relatively small lot runs up to 1 m in diameter. They are suppliers to some major international companies as well as to most of the Spanish metal machine manufacturers. Around 80% of their product is exported, mostly to European countries. They also produce geared shafts up to 1 m in length and can provide ground internal teeth for cylindrical gears. Their quality level is between 5 and 8 depending on complexity and customer requirements.
+address: Polígono Industrial Arriaga, 7
+address2: 20870 ELGOIBAR (Gipuzkoa) España
+city:  
+phone: Phone
+number1: +34 943 748 201
+number2: +34 943 740 546
+contact: grindel@grindelgears.com
+
+
+
+
+item   :
+  - title : 
+    image : images/portfolio/portfolio-grindel1.jpg
+    category  : 
+
+  - title : 
+    image : images/portfolio/portfolio-grindel2.jpg
+    category  : ios, design
+
+  - title : 
+    image : images/portfolio/portfolio-grindel3.jpg
+    category  : photography, development
+
+  - title : 
+    image : images/portfolio/portfolio-grindel4.jpg
+    category  : ios
+
+  - title :  
+    image : images/portfolio/portfolio-grindel5.jpg
+    category  : 
+
+  - title : 
+    image : images/portfolio/portfolio-grindel6.jpg
+    category  : 
+    
+item2   :
+  - title :  
+    image : images/portfolio/portfolio-grindel7.jpg
+    category  : photography
+
+  - title : 
+    image : images/portfolio/portfolio-grindel8.jpg
+    category  : ios, design
+
+  - title : 
+    image : images/portfolio/portfolio-grindel9.jpg
+    category  : photography, development
+  
+  - title :  
+    image : images/portfolio/portfolio-grindel10.jpg
+    category  : photography
+
+  - title : 
+    image : images/portfolio/portfolio-grindel11.jpg
+    category  : ios, design
+
+  - title : 
+    image : images/portfolio/portfolio-grindel12.jpg
+    category  : photography, development
+
+item3   :
+  - title :  
+    image : images/portfolio/portfolio-grindel13.jpg
+    category  : photography
+
+  - title : 
+    image : images/portfolio/portfolio-grindel14.jpg
+    category  : ios, design
+
+  - title : 
+    image : images/portfolio/portfolio-grindel15.jpg
+    category  : photography, development
+  
+  - title :  
+    image : images/portfolio/portfolio-grindel16.jpg
+    category  : photography
+
+  - title : 
+    image : images/portfolio/portfolio-grindel17.jpg
+    category  : ios, design
+
+  - title : 
+    image : images/portfolio/portfolio-grindel18.jpg
+    category  : photography, development
+
+
+
+
+
