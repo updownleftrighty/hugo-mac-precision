@@ -22,7 +22,7 @@ item   :
 
   - title : 
     image : images/portfolio/portfolio-tedisa2.jpg
-    category  : ios, design
+    category  : 
 
   - title : 
     image : images/portfolio/portfolio-tedisa3.jpg
@@ -30,7 +30,7 @@ item   :
 
   - title : 
     image : images/portfolio/portfolio-tedisa4.jpg
-    category  : ios
+    category  : 
 
   - title :  
     image : images/portfolio/portfolio-tedisa5.jpg
@@ -43,14 +43,14 @@ item   :
 item2   :
   - title :  
     image : images/portfolio/portfolio-tedisa7.jpg
-    category  : photography
+    category  : 
 
   - title : 
     image : images/portfolio/portfolio-tedisa8.jpg
-    category  : ios, design
+    category  : 
 
   - title : 
     image : images/portfolio/portfolio-tedisa9.jpg
-    category  : photography, development
+    category  : 
 
 
