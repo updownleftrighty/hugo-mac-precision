@@ -1,0 +1,73 @@
+enable  : true
+ttopTitle: INTRODUCING
+title   : OUR PARTNERS.
+subtitle: Reliable suppliers for almost every use case.
+url: http://www.shuton.com/
+location: Address
+description: Shuton Text
+address: Polígono Industrial Goian
+address2: C/Subinoa, 5
+city:  01170 LEGUTIANO, Spain
+phone: Phone
+number1: +34 945 465 629
+number2: +34 945 465 610
+contact: shuton@shuton.com
+
+
+
+
+item   :
+  - title : 
+    image : images/portfolio/portfolio-shuton1.jpg
+    category  : 
+
+  - title : 
+    image : images/portfolio/portfolio-shuton2.jpg
+    category  : ios, design
+
+  - title : 
+    image : images/portfolio/portfolio-shuton3.jpg
+    category  : photography, development
+
+  - title : 
+    image : images/portfolio/portfolio-shuton4.jpg
+    category  : ios
+
+  - title :  
+    image : images/portfolio/portfolio-shuton5.jpg
+    category  : 
+
+  - title : 
+    image : images/portfolio/portfolio-shuton6.jpg
+    category  : 
+    
+item2   :
+  - title :  
+    image : images/portfolio/portfolio-shuton7.jpg
+    category  : photography
+
+  - title : 
+    image : images/portfolio/portfolio-shuton8.jpg
+    category  : ios, design
+
+  - title : 
+    image : images/portfolio/portfolio-shuton9.jpg
+    category  : photography, development
+  
+  - title :  
+    image : images/portfolio/portfolio-shuton10.jpg
+    category  : photography
+
+  - title : 
+    image : images/portfolio/portfolio-shuton11.jpg
+    category  : ios, design
+
+  - title : 
+    image : images/portfolio/portfolio-shuton12.jpg
+    category  : photography, development
+
+
+
+
+
+

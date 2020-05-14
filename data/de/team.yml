@@ -6,12 +6,12 @@ subtitle: Erfahrung macht uns aus - Leidenschaft treibt uns an.
 member  :
   - image         : images/team/member-1.jpg
     name          : John Davidson
-    designation   : Sales
+    designation   : Sales & Consulting
     description   : >
-      Over 20 years of experience in sales
+      Jahrelange Erfahrung in der Branche
 
   - image         : images/team/member-2.jpg
     name          : Theodor Bentgens
-    designation   : Sales
+    designation   : Sales & Consulting
     description   : >
-      Also some years of experience
+      Jahrelange Erfahrung im Service Sektor

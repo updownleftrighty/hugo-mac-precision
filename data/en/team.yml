@@ -6,14 +6,14 @@ subtitle: We're here to help you.
 member  :
   - image         : images/team/member-1.jpg
     name          : John Davidson
-    designation   : Sales
+    designation   : Sales & Consulting
     description   : >
       It's me
 
 
   - image         : images/team/member-2.jpg
     name          : Theodor Bentgens
-    designation   : Sales
+    designation   : Sales & Consulting
     description   : >
       It's me, too
 
