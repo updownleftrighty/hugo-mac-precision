@@ -1,7 +1,7 @@
 enable  : true
 topTitle: NAH BEI IHNEN
 title   : UNSER TEAM.
-subtitle: Erfahrung macht uns auf - Leidenschaft treibt uns an.
+subtitle: Erfahrung macht uns aus - Leidenschaft treibt uns an.
 
 member  :
   - image         : images/team/member-1.jpg
@@ -11,7 +11,7 @@ member  :
       Over 20 years of experience in sales
 
   - image         : images/team/member-2.jpg
-    name          : Theo Bentgens
+    name          : Theodor Bentgens
     designation   : Sales
     description   : >
       Also some years of experience

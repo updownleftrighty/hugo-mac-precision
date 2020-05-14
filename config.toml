@@ -46,7 +46,7 @@ logo = "images/logo.png"
 phone = "images/phone.png"
 menufixed = true
 
-footerDescription = "Seit 2014 erkennt, prüft und stellt Mac Precision Qualitätslieferanten seinen Kunden vor."
+footerDescription = "Seit 2012 erkennt, prüft und stellt Mac Precision Qualitätslieferanten seinen Kunden vor."
 footerServiceTitle = "Leistungen"
 footerQuicklinkTitle = "Nützliche Links"
 footerAboutTitle = "Über uns"
@@ -80,7 +80,7 @@ carouselTitle8 = "images/slider/title_spiroide.png"
 # About 2 Section
 [Languages.de.params.aboutSm]
 enable  = true
-title   = "Seit 2014 erkennt, prüft und stellt Mac Precision Qualitätslieferanten seinen Kunden vor."
+title   = "Seit 2012 erkennt, prüft und stellt Mac Precision Qualitätslieferanten seinen Kunden vor."
 description = "Wir haben heute eine stetig wachsende Zahl zufriedener Kunden , die unseren Lieferanten und ihren Produkten vertrauen.  Diese Lieferanten sind kleine bis mittelgroße Traditions- und Familienunternehmen. Die meisten sind mindesten 50 Jahre alt und eines sogar seit mehr als 100 Jahren existent."
 
 # Blog Section On Homepage
@@ -130,7 +130,7 @@ logo = "images/logo.png"
 phone = "images/phone.png"
 menufixed = true
 
-footerDescription = "We have been discovering, auditing, and introducing quality providers to its’ customers since 2008."
+footerDescription = "We have been discovering, auditing, and introducing quality providers to its’ customers since 2012."
 footerServiceTitle = "Service"
 footerQuicklinkTitle = "Quicklinks"
 footerAboutTitle = "About"
@@ -164,7 +164,7 @@ carouselTitle8 = "images/slider/title_spiroide.png"
 # About 2 Section
 [Languages.en.params.aboutSm]
 enable  = true
-title   = "We have been discovering, auditing, and introducing quality providers to its’ customers since 2008. "
+title   = "We have been discovering, auditing, and introducing quality providers to its’ customers since 2012. "
 description = "Today we have an ever-growing group of satisfied customers that rely on MAC Precisions’ suppliers to delivery quality components on a timely basis with market prices. These suppliers are for the most part small to medium sized traditional or family companies. Most are at least 50 years old and one has been operating for over 100 years."
 
 # Blog Section On Homepage
