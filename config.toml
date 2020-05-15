@@ -99,6 +99,8 @@ subtitle= "Wir helfen Ihnen gerne bei allen möglichen Fragen."
 address = "Postfach 240229<br> 68172 Mannheim"
 phone   = "+49 (0) 621 481 9878"
 phone2  = "+49 (0) 176 966 183 30"
+email   = "john.davidson@macprecision.de"
+email2  = "theodor.bentgens@macprecision.de"
 
 facebook= "https://www.facebook.com/"
 twitter = "https://twitter.com/"
@@ -129,7 +131,7 @@ logo = "images/logo.png"
 phone = "images/phone.png"
 menufixed = true
 
-footerDescription = "We have been discovering, auditing, and introducing quality providers to its’ customers since 2012."
+footerDescription = "We have been discovering, auditing, and introducing quality providers to our customers since 2012."
 footerServiceTitle = "Service"
 footerQuicklinkTitle = "Quicklinks"
 footerAboutTitle = "About"
@@ -163,7 +165,7 @@ carouselTitle8 = "images/slider/title_spiroide.png"
 # About 2 Section
 [Languages.en.params.aboutSm]
 enable  = true
-title   = "We have been discovering, auditing, and introducing quality providers to its’ customers since 2012. "
+title   = "We have been discovering, auditing, and introducing quality providers to our customers since 2012. "
 description = "Today we have an ever-growing group of satisfied customers that rely on MAC Precisions’ suppliers to delivery quality components on a timely basis with market prices. These suppliers are for the most part small to medium sized traditional or family companies. Most are at least 50 years old and one has been operating for over 100 years."
 
 # Blog Section On Homepage
@@ -245,6 +247,6 @@ name    = "about"
 url     = "service"
 weight  = 2
 [[menu.quicklink]]
-name    = "badges"
-url     = "about"
+name    = "news"
+url     = "blog"
 weight  = 3
