@@ -24,7 +24,7 @@ item   :
 
   - title : 
     image : images/portfolio/portfolio-eisenor2.jpg
-    category  : ios, design
+    category  : 
 
   - title : 
     image : images/portfolio/portfolio-eisenor6.jpg
@@ -32,11 +32,11 @@ item   :
 
   - title : 
     image : images/portfolio/portfolio-eisenor3.jpg
-    category  : photography, development
+    category  : 
 
   - title : 
     image : images/portfolio/portfolio-eisenor4.jpg
-    category  : ios
+    category  : 
 
   - title :  
     image : images/portfolio/portfolio-eisenor5.jpg

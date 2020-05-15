@@ -99,8 +99,8 @@ subtitle= "Wir helfen Ihnen gerne bei allen möglichen Fragen."
 address = "Postfach 240229<br> 68172 Mannheim"
 phone   = "+49 (0) 621 481 9878"
 phone2  = "+49 (0) 176 966 183 30"
-email   = "john.davidson@macprecision.de"
-email2  = "theodor.bentgens@macprecision.de"
+email   = "jadavidson@macprecision.de"
+email2  = "tbentgens@macprecision.de"
 
 facebook= "https://www.facebook.com/"
 twitter = "https://twitter.com/"
@@ -192,6 +192,8 @@ instagram= "https://www.instagram.com/"
 mapLatitude = "49.450759"
 mapLongitude= "8.472489"
 mapMarker   = "images/marker.png"
+email   = "jadavidson@macprecision.de"
+email2  = "tbentgens@macprecision.de"
 
 # Call to Action Section on About Page
 [Languages.en.params.cta]
