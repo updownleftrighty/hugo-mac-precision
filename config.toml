@@ -62,7 +62,7 @@ btnText = "mehr erfahren"
 btnURL  = "/de"
 carouselThumb1 = "images/slider/car_tedisa.jpg"
 carouselThumb2 = "images/slider/car_tdg.jpg"
-carouselThumb3 = "images/slider/car_grindel.jpg"
+carouselThumb3 = "images/slider/car_grindel2.jpg"
 carouselThumb4 = "images/slider/car_oz.jpg"
 carouselThumb5 = "images/slider/car_eisenor.jpg"
 carouselThumb6 = "images/slider/car_grindel2.jpg"
@@ -211,33 +211,39 @@ btnText = "Contact Us"
 [[menu.nav]]
 name    = "service"
 url     = "service"
+identifier = "service"
 weight  = 1
 [[menu.nav]]
 name    = "portfolio"
 url     = "portfolio"
+identifier = "portfolio"
 weight  = 2
 [[menu.nav]]
 name    = "blog"
 url     = "blog"
+identifier = "blog"
 weight  = 3
 [[menu.nav]]
 name    = "contact"
 url     = "contact"
+identifier = "contact"
 weight  = 4
+
+
 
 # Footer Service Menu
 [[menu.service]]
 name    = "service"
 url     = "service"
-weight  = 1
+weight  = 6
 [[menu.service]]
 name    = "partner"
 url     = "portfolio"
-weight  = 2
+weight  = 7
 [[menu.service]]
 name    = "contact"
 url     = "contact"
-weight  = 3
+weight  = 8
 
 # Footer Quick links Menu
 [[menu.quicklink]]
