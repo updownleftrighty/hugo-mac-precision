@@ -92,7 +92,30 @@ item3   :
     image : images/portfolio/portfolio-grindel18.jpg
     category  : photography, development
 
+item4   :
+  - title :  
+    image : images/portfolio/portfolio-grindel19.jpg
+    category  : photography
 
+  - title : 
+    image : images/portfolio/portfolio-grindel20.jpg
+    category  : ios, design
+
+  - title : 
+    image : images/portfolio/portfolio-grindel21.jpg
+    category  : photography, development
+
+  - title :  
+    image : images/portfolio/portfolio-grindel22.jpg
+    category  : photography
+
+  - title : 
+    image : images/portfolio/portfolio-grindel23.jpg
+    category  : ios, design
+
+  - title : 
+    image : images/portfolio/portfolio-grindel24.jpg
+    category  : photography, development
 
 
 

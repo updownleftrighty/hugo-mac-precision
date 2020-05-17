@@ -4,6 +4,7 @@ title = "MAC Precision"
 theme = "navigator-hugo"
 summaryLength = 10
 
+
 # Build robots.txt file
 enableRobotsTXT = true
 # google analytics tracking id
@@ -21,7 +22,7 @@ DefaultContentLanguage = "de"
 [params]
 logo = "images/logo.png"
 phone = "images/phone.png"
-
+    
 # Gestion des langues :.de / EN / NL / DE
 [[Params.listeLangues]]
 code = "de"
