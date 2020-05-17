@@ -7,7 +7,7 @@ description: "Learn how our suppliers deal with the current situation."
 ---
 
 
-### Notes regrding the situation of our partners 
+### Notes regarding the situation of our partners 
  
 For suppliers and customers alike the Coronavirus-19 has been devastating. Everyone has suffered and many continue to do so if not physically or financially at least emotionally. Our suppliers in Spain went through some very tough weeks at Easter time and the whole country was basically closed. 
 
