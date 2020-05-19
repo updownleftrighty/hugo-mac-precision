@@ -17,4 +17,6 @@ In this spot would usually appear a list of events and the participation thereof
 
 In the meantime, some companies have turned to digital means of getting information out about their companies. We hereby announce a plant tour video from the company Ondozabal. Please go to our Partner page to reach the link that will connect you to this excellent video.
 
+Also, should your company have questions or want to have a meeting with either personnel from MAC Precision or one of our suppliers we can arrange to meet at your location or virtually over the internet with Zoom or other AP. We look forward to hearing from you. 
+
 

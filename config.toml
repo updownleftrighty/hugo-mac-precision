@@ -75,7 +75,7 @@ carouselTitle3 = "images/slider/title_grindel.png"
 carouselTitle4 = "images/slider/title_oz.png"
 carouselTitle5 = "images/slider/title_eisenor.png"
 carouselTitle6 = "images/slider/title_grindel.png"
-carouselTitle7 = "images/slider/title_obeki.png"
+carouselTitle7 = ""
 carouselTitle8 = "images/slider/title_spiroide.png"
 
 # About 2 Section
@@ -94,8 +94,8 @@ subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reici
 # Contact Section
 [Languages.de.params.contact]
 enable  = true
-topTitle= "Lass uns eine Nachricht da"
-title   = "Kontaktiere uns"
+topTitle= "Schreib uns."
+title   = ""
 subtitle= "Wir helfen Ihnen gerne bei allen möglichen Fragen."
 address = "Postfach 240229<br> 68172 Mannheim"
 phone   = "+49 (0) 621 481 9878"
@@ -160,7 +160,7 @@ carouselTitle3 = "images/slider/title_grindel.png"
 carouselTitle4 = "images/slider/title_oz.png"
 carouselTitle5 = "images/slider/title_eisenor.png"
 carouselTitle6 = "images/slider/title_grindel.png"
-carouselTitle7 = "images/slider/title_obeki.png"
+carouselTitle7 = ""
 carouselTitle8 = "images/slider/title_spiroide.png"
 
 # About 2 Section

@@ -1,7 +1,7 @@
 enable    : true
 topTitle  : A LIST OF SERVICES
 title     : Our Service.
-subtitle  : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+subtitle  : What sets us apart from the competition is our lifelong dedication to customer service.
 item      :
   - icon  : tf-ion-ios-copy-outline
     title : Branding
