@@ -94,8 +94,8 @@ subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reici
 # Contact Section
 [Languages.de.params.contact]
 enable  = true
-topTitle= "Schreib uns."
-title   = ""
+topTitle= ""
+title   = "Schreib uns."
 subtitle= "Wir helfen Ihnen gerne bei allen möglichen Fragen."
 address = "Postfach 240229<br> 68172 Mannheim"
 phone   = "+49 (0) 621 481 9878"
@@ -181,7 +181,7 @@ subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reici
 enable  = true
 topTitle= "DROP US A NOTE"
 title   = "Contact Us."
-subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+subtitle= "We'll answer all the questions you have regarding MAC Precision."
 address = "Postfach 240229<br> 68172 Mannheim"
 phone   = "+49 (0) 621 481 9878"
 phone2  = "+49 (0) 176 966 183 30"
