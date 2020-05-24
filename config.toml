@@ -62,7 +62,7 @@ button  = false
 btnText = "mehr erfahren"
 btnURL  = "/de"
 carouselThumb1 = "images/slider/car_tedisa.jpg"
-carouselThumb2 = "images/slider/car_tdg.jpg"
+carouselThumb2 = "images/slider/car_tdg3.jpg"
 carouselThumb3 = "images/slider/car_grindel2.jpg"
 carouselThumb4 = "images/slider/car_oz.jpg"
 carouselThumb5 = "images/slider/car_eisenor.jpg"
@@ -81,8 +81,8 @@ carouselTitle8 = "images/slider/title_spiroide.png"
 # About 2 Section
 [Languages.de.params.aboutSm]
 enable  = true
-title   = "Seit 2012 erkennt, prüft und stellt Mac Precision Qualitätslieferanten seinen Kunden vor."
-description = "Wir haben heute eine stetig wachsende Zahl zufriedener Kunden , die unseren Lieferanten und ihren Produkten vertrauen.  Diese Lieferanten sind kleine bis mittelgroße Traditions- und Familienunternehmen. Die meisten sind mindesten 50 Jahre alt und eines sogar seit mehr als 100 Jahren existent."
+title   = "Mac Precision entdeckt und überprüft bereits seit 2012 Lieferanten mit hohen Qualitätsstandards und stellt sie seinen Kunden vor."
+description = "Die Zahl unserer zufriedenen Kunden, die unseren zuverlässigen Lieferanten mit ihren Produkten zu marktfähigen Preisen vertrauen, wächst kontinuierlich.  Die Lieferanten sind kleine bis mittelgroße Traditions- und Familienunternehmen. Die meisten blicken auf eine über 50- jährige Tradition zurück und ein Unternehmen kann sogar eine über 100 -jährige Firmengeschichte vorweisen."
 
 # Blog Section On Homepage
 [Languages.de.params.blog]
@@ -166,8 +166,8 @@ carouselTitle8 = "images/slider/title_spiroide.png"
 # About 2 Section
 [Languages.en.params.aboutSm]
 enable  = true
-title   = "We have been discovering, auditing, and introducing quality providers to our customers since 2012. "
-description = "Today we have an ever-growing group of satisfied customers that rely on MAC Precisions’ suppliers to delivery quality components on a timely basis with market prices. These suppliers are for the most part small to medium sized traditional or family companies. Most are at least 50 years old and one has been operating for over 100 years."
+title   = "MAC Precision has been discovering, auditing, and introducing quality providers to its’ customers since 2012."
+description = "Today we have an ever-growing group of satisfied customers that rely on MAC Precisions’ suppliers to deliver quality components on a timely basis with market prices. These suppliers are for the most part small to medium sized traditional or family companies. Most are at least 50 years old and one has been operating for over 100 years."
 
 # Blog Section On Homepage
 [Languages.en.params.blog]

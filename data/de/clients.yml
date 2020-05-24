@@ -1,5 +1,5 @@
 enable    : true
-title     : Wir kümmern uns um ihr Anliegen
+title     : Wir kümmern uns um Ihr Anliegen
 description: >
   Das Mac Precision Team unterstützt ihr Unternehmen bei:
 image     : images/about/about-3.jpg
@@ -10,7 +10,7 @@ servicelist:
   - name    : Durchsetzung besserer Lieferzeiten
   - name    : Längerer Lebensdauer der Produkte
   - name    : Bezug von Prototypen
-  - name    : Schneller und zuverlässiger Kommunikation
+  - name    : Schnelle und zuverlässige Kommunikation
 
 clientLogo:
   - image   : images/client-logo/logo_eisenor.png
@@ -18,6 +18,5 @@ clientLogo:
   - image   : images/client-logo/logo_tedisa.png
   - image   : images/client-logo/logo_spiroide.png
   - image   : images/client-logo/logo_grindel.png
-  - image   : images/client-logo/logo_obeki.png
   - image   : images/client-logo/logo_tdg.png
   - image   : images/client-logo/logo_oz.png

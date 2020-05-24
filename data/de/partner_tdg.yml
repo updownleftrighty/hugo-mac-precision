@@ -16,7 +16,6 @@ contact: tdg@tdgcompany.com
 
 
 
-
 item   :
   - title : 
     image : images/portfolio/portfolio-tdg1.jpg
@@ -40,5 +39,30 @@ item   :
 
   - title : 
     image : images/portfolio/portfolio-tdg6.jpg
+    category  : 
+
+item2   :
+  - title : 
+    image : images/portfolio/portfolio-tdg7.jpg
+    category  : 
+
+  - title : 
+    image : images/portfolio/portfolio-tdg8.jpg
+    category  : 
+
+  - title : 
+    image : images/portfolio/portfolio-tdg9.jpg
+    category  : 
+
+  - title : 
+    image : images/portfolio/portfolio-tdg10.jpg
+    category  : 
+
+  - title : 
+    image : images/portfolio/portfolio-tdg11.jpg
+    category  : 
+
+  - title : 
+    image : images/portfolio/portfolio-tdg12.jpg
     category  : 
 
