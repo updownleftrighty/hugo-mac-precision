@@ -6,8 +6,8 @@ author: John
 description: "MACP Website new online company profile"
 ---
 
-### Hallo! 
+### Herzlich Willkommen! 
 
-Wir freuen uns Ihnen unsere neue Webpräsenz vorstellen zu dürfen. Hier können Sie sich einen Einblick in unsere Unternehmen und seine Partner verschaffen. Mit unseren News halten wir Sie auf dem Laufenden und präsentieren Ihnen neue Innovationen, Produke und Ideen unserer Lieferanten.
+Wir freuen uns Ihnen unsere neue Webpräsenz vorstellen zu dürfen. Hier können Sie sich einen Einblick in unser Unternehmen und seine Partner verschaffen. Mit unseren News halten wir Sie auf dem Laufenden und präsentieren Ihnen neue Innovationen, Produke und Ideen unserer Lieferanten.
 
 

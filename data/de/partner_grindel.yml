@@ -5,7 +5,7 @@ subtitle: Zuverlässige Lieferanten auf die Sie zählen können
 url: https://www.grindelgears.com/
 logo: images/portfolio/portfolio-obeki.jpg
 location: Anschrift
-description: Grindel stellt geschliffene, zylindrische, gradverzahnte Zahnräder her, auch mit Innenverzahnung per Ausschleifen, Nutstossen und Räumen. In kleinen und mittleren Stückzahlen. Es werden auch Zahnwellen produziert bis 1 Meter Länge. Der Qualitätsbereich liegt zwischen 5 und 8, je nach Komplexität und Anforderungen. Sie beliefern die meisten spanischen Maschinenhersteller sowie eine Reihe internationaler Markenhersteller. Ca. 80% wird exportiert, hauptsächlich innerhalb Europas. 
+description: Grindel stellt geschliffene, zylindrische, gradverzahnte Zahnräder her, auch mit Innenverzahnung per Ausschleifen, Läppen, und Nutstossen. In kleinen und mittleren Stückzahlen. Es werden auch Zahnwellen produziert bis 1 Meter Länge. Der Qualitätsbereich liegt zwischen 5 und 8, je nach Komplexität und Anforderungen. Sie beliefern die meisten spanischen Maschinenhersteller sowie eine Reihe internationaler Markenhersteller. Ca. 80% wird exportiert, hauptsächlich innerhalb Europas. 
 address: Polígono Industrial Arriaga, 7
 address2: 20870 ELGOIBAR (Gipuzkoa) España
 city:  
@@ -28,11 +28,11 @@ item   :
 
   - title : 
     image : images/portfolio/portfolio-grindel3.jpg
-    category  : photography, development
+    category  : 
 
   - title : 
     image : images/portfolio/portfolio-grindel4.jpg
-    category  : ios
+    category  : 
 
   - title :  
     image : images/portfolio/portfolio-grindel5.jpg
@@ -45,11 +45,11 @@ item   :
 item2   :
   - title :  
     image : images/portfolio/portfolio-grindel7.jpg
-    category  : photography
+    category  : 
 
   - title : 
     image : images/portfolio/portfolio-grindel8.jpg
-    category  : ios, design
+    category  : 
 
   - title : 
     image : images/portfolio/portfolio-grindel9.jpg
