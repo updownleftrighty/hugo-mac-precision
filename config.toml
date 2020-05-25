@@ -67,7 +67,7 @@ carouselThumb3 = "images/slider/car_grindel2.jpg"
 carouselThumb4 = "images/slider/car_oz.jpg"
 carouselThumb5 = "images/slider/car_eisenor.jpg"
 carouselThumb6 = "images/slider/car_grindel.jpg"
-carouselThumb7 = "images/slider/car_obeki.jpg"
+carouselThumb7 = "images/slider/car_shuton.jpg"
 carouselThumb8 = "images/slider/car_spiroide.jpg"
 carouselTitle1 = "images/slider/title_tedisa.png"
 carouselTitle2 = "images/slider/title_tdg.png"
@@ -75,14 +75,14 @@ carouselTitle3 = "images/slider/title_grindel.png"
 carouselTitle4 = "images/slider/title_oz.png"
 carouselTitle5 = "images/slider/title_eisenor.png"
 carouselTitle6 = "images/slider/title_grindel.png"
-carouselTitle7 = ""
+carouselTitle7 = "images/slider/title_shuton.png"
 carouselTitle8 = "images/slider/title_spiroide.png"
 
 # About 2 Section
 [Languages.de.params.aboutSm]
 enable  = true
 title   = "Mac Precision entdeckt und überprüft bereits seit 2012 Lieferanten mit hohen Qualitätsstandards und stellt sie seinen Kunden vor."
-description = "Die Zahl unserer zufriedenen Kunden, die unseren zuverlässigen Lieferanten mit ihren Produkten zu marktfähigen Preisen vertrauen, wächst kontinuierlich.  Die Lieferanten sind kleine bis mittelgroße Traditions- und Familienunternehmen. Die meisten blicken auf eine über 50- jährige Tradition zurück und ein Unternehmen kann sogar eine über 100 -jährige Firmengeschichte vorweisen."
+description = "Die Zahl unserer zufriedenen Kunden, die unseren zuverlässigen Lieferanten mit ihren Produkten zu marktfähigen Preisen vertrauen, wächst kontinuierlich.  Die Lieferanten sind kleine bis mittelgroße Traditions- und Familienunternehmen."
 
 # Blog Section On Homepage
 [Languages.de.params.blog]
@@ -94,8 +94,8 @@ subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reici
 # Contact Section
 [Languages.de.params.contact]
 enable  = true
-topTitle= ""
-title   = "Schreib uns."
+topTitle= "IHR KONTAKT"
+title   = "SCHREIBEN SIE UNS."
 subtitle= "Wir helfen Ihnen gerne bei allen möglichen Fragen."
 address = "Postfach 240229<br> 68172 Mannheim"
 phone   = "+49 (0) 621 481 9878"
@@ -147,12 +147,12 @@ button  = false
 btnText = "mehr erfahren"
 btnURL  = "/en"
 carouselThumb1 = "images/slider/car_tedisa.jpg"
-carouselThumb2 = "images/slider/car_tdg.jpg"
-carouselThumb3 = "images/slider/car_grindel.jpg"
+carouselThumb2 = "images/slider/car_tdg3.jpg"
+carouselThumb3 = "images/slider/car_grindel2.jpg"
 carouselThumb4 = "images/slider/car_oz.jpg"
 carouselThumb5 = "images/slider/car_eisenor.jpg"
 carouselThumb6 = "images/slider/car_grindel.jpg"
-carouselThumb7 = "images/slider/car_obeki.jpg"
+carouselThumb7 = "images/slider/car_shuton.jpg"
 carouselThumb8 = "images/slider/car_spiroide.jpg"
 carouselTitle1 = "images/slider/title_tedisa.png"
 carouselTitle2 = "images/slider/title_tdg.png"
@@ -160,8 +160,9 @@ carouselTitle3 = "images/slider/title_grindel.png"
 carouselTitle4 = "images/slider/title_oz.png"
 carouselTitle5 = "images/slider/title_eisenor.png"
 carouselTitle6 = "images/slider/title_grindel.png"
-carouselTitle7 = ""
+carouselTitle7 = "images/slider/title_shuton.png"
 carouselTitle8 = "images/slider/title_spiroide.png"
+
 
 # About 2 Section
 [Languages.en.params.aboutSm]

@@ -1,7 +1,7 @@
 enable  : true
-topTitle: OUR
-title   : TEAM
-subtitle: We're here to help you.
+topTitle: GET TO KNOW
+title   : OUR TEAM,
+subtitle: We're here assist you.
 
 member  :
   - image         : images/team/member-1.jpg
