@@ -86,7 +86,7 @@ item3   :
 
   - title : 
     image : images/portfolio/portfolio-grindel17.jpg
-    category  : ios, design
+    category  :
 
   - title : 
     image : images/portfolio/portfolio-grindel18.jpg
@@ -95,11 +95,11 @@ item3   :
 item4   :
   - title :  
     image : images/portfolio/portfolio-grindel19.jpg
-    category  : photography
+    category  : 
 
   - title : 
     image : images/portfolio/portfolio-grindel20.jpg
-    category  : ios, design
+    category  : 
 
   - title : 
     image : images/portfolio/portfolio-grindel21.jpg
