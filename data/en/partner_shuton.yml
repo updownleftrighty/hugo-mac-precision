@@ -4,7 +4,7 @@ title   : OUR PARTNERS.
 subtitle: Reliable suppliers for almost every use case.
 url: http://www.shuton.com/
 location: Address
-description: Shuton Text
+description: Shuton ist eine Top Referenz der Hersteller von Kugelrollspindeln in Europa.  Angesiedelt im spanischen Baskenland, in der Schwerpunktregion des Werkzeugmaschinenbaus.   40 Jahre Erfahrung haben Shuton zu einem der führenden Spezialisten für Kugelgewindetriebe gemacht.  Erfahrene und engagierte Mitarbeiter stehen für höchste Präzision, Wettbewerbsfähigkeit und Zuverläßlichkeit.  Durch permanente Innovation und der Suche nach Perfektion wird Shuton zum „Best Partner“ für unsere Kunden. SHUTON fertigt Kugelgewindetriebe  für Werkzeugmaschinen, Kunststoffeinspritzung, Pressen und andere Anwendungen. In  Durchmessern von 16 bis 200 mm, Steigungen von 4 bis 100 mm und Spindeln von bis zu 15 Metern ungeteilter Länge.
 address: Polígono Industrial Goian
 address2: C/Subinoa, 5
 city:  01170 LEGUTIANO, Spain
@@ -15,22 +15,21 @@ contact: shuton@shuton.com
 
 
 
-
 item   :
   - title : 
-    image : images/portfolio/portfolio-shuton1.jpg
+    image : images/portfolio/portfolio-shuton7.jpg
     category  : 
 
   - title : 
-    image : images/portfolio/portfolio-shuton2.jpg
+    image : images/portfolio/portfolio-shuton8.jpg
     category  : ios, design
 
   - title : 
-    image : images/portfolio/portfolio-shuton3.jpg
+    image : images/portfolio/portfolio-shuton9.jpg
     category  : photography, development
 
   - title : 
-    image : images/portfolio/portfolio-shuton4.jpg
+    image : images/portfolio/portfolio-shuton10.jpg
     category  : ios
 
   - title :  
@@ -43,31 +42,17 @@ item   :
     
 item2   :
   - title :  
-    image : images/portfolio/portfolio-shuton7.jpg
+    image : images/portfolio/portfolio-shuton1.jpg
     category  : photography
 
   - title : 
-    image : images/portfolio/portfolio-shuton8.jpg
+    image : images/portfolio/portfolio-shuton2.jpg
     category  : ios, design
 
   - title : 
-    image : images/portfolio/portfolio-shuton9.jpg
+    image : images/portfolio/portfolio-shuton3.jpg
     category  : photography, development
   
   - title :  
-    image : images/portfolio/portfolio-shuton10.jpg
+    image : images/portfolio/portfolio-shuton4.jpg
     category  : photography
-
-  - title : 
-    image : images/portfolio/portfolio-shuton11.jpg
-    category  : ios, design
-
-  - title : 
-    image : images/portfolio/portfolio-shuton12.jpg
-    category  : photography, development
-
-
-
-
-
-
