@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on MAC Precision</title>
-    <link>https://updownleftrighty.github.io/de/categories/</link>
+    <link>http://macprecision.net/de/categories/</link>
     <description>Recent content in Categories on MAC Precision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     
-	<atom:link href="https://updownleftrighty.github.io/de/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://macprecision.net/de/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

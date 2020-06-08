@@ -1,7 +1,7 @@
 enable  : true
-topTitle: GET TO KNOW
-title   : OUR TEAM,
-subtitle: We're here assist you.
+topTitle: WE'RE HERE TO ASSIST YOU.
+title   : OUR TEAM
+subtitle: Strength through Experience and Dedication.
 
 member  :
   - image         : images/team/member-1.jpg

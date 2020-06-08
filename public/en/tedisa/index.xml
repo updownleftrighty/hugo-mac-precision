@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tedisa on Example site multi-language</title>
-    <link>https://updownleftrighty.github.io/en/tedisa/</link>
+    <link>http://macprecision.net/en/tedisa/</link>
     <description>Recent content in Tedisa on Example site multi-language</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Jul 2018 12:37:52 +0600</lastBuildDate>
     
-	<atom:link href="https://updownleftrighty.github.io/en/tedisa/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://macprecision.net/en/tedisa/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
